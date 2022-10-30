@@ -9,7 +9,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :rocket: URL         | (https://formularioemreact.vercel.app/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://drive.google.com/file/d/1bAep_yQGcdbVVJGl9EFOKTHLtkErCCfF/view?usp=sharing#vitrinedev)
+![](https://imageup.me/formularioreact#vitrinedev)
 
 ## Detalhes do projeto
 
