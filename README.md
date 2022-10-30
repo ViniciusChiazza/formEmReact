@@ -1,5 +1,16 @@
-Projeto criado em React como desafio, praticando a requisição de duas APIs e as colocando em um formulario.
+# Formulário em React praticando requisição  de API 
 
-Utilizei a lib watercss, axios e react-input-mask para customizaçã do projeto
+Rápida descrição do objetivo de fazer esse projeto
 
-acesse: https://formularioemreact.vercel.app/ para dar uma olhada
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | Formulário React
+| :label: Tecnologias | javascript, html, css, react, nodejs (tecnologias utilizadas)
+| :rocket: URL         | (https://formularioemreact.vercel.app/)
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://drive.google.com/file/d/1bAep_yQGcdbVVJGl9EFOKTHLtkErCCfF/view?usp=sharing#vitrinedev)
+
+## Detalhes do projeto
+
+Projeto feito para praticar React, requisição de API e libs.
